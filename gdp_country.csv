@@ -1,0 +1,76 @@
+country,measure,rank
+Norway,gdp_per_person,4
+Norway,adjusted_cost,5
+Norway,adjusted_cost_hours,1
+Luxembourg,gdp_per_person,1
+Luxembourg,adjusted_cost,1
+Luxembourg,adjusted_cost_hours,2
+Qatar,gdp_per_person,3
+Qatar,adjusted_cost,3
+Qatar,adjusted_cost_hours,3
+Belgium,gdp_per_person,15
+Belgium,adjusted_cost,16
+Belgium,adjusted_cost_hours,4
+Denmark,gdp_per_person,8
+Denmark,adjusted_cost,12
+Denmark,adjusted_cost_hours,5
+Switzerland,gdp_per_person,2
+Switzerland,adjusted_cost,6
+Switzerland,adjusted_cost_hours,6
+Iceland,gdp_per_person,7
+Iceland,adjusted_cost,11
+Iceland,adjusted_cost_hours,7
+Austria,gdp_per_person,12
+Austria,adjusted_cost,13
+Austria,adjusted_cost_hours,8
+Sweden,gdp_per_person,13
+Sweden,adjusted_cost,17
+Sweden,adjusted_cost_hours,9
+United States,gdp_per_person,6
+United States,adjusted_cost,9
+United States,adjusted_cost_hours,10
+Netherlands,gdp_per_person,11
+Netherlands,adjusted_cost,10
+Netherlands,adjusted_cost_hours,11
+Germany,gdp_per_person,18
+Germany,adjusted_cost,18
+Germany,adjusted_cost_hours,12
+Singapore,gdp_per_person,5
+Singapore,adjusted_cost,2
+Singapore,adjusted_cost_hours,13
+France,gdp_per_person,26
+France,adjusted_cost,26
+France,adjusted_cost_hours,14
+Finland,gdp_per_person,14
+Finland,adjusted_cost,20
+Finland,adjusted_cost_hours,15
+Britain,gdp_per_person,28
+Britain,adjusted_cost,28
+Britain,adjusted_cost_hours,16
+UAE,gdp_per_person,17
+UAE,adjusted_cost,8
+UAE,adjusted_cost_hours,17
+Italy,gdp_per_person,26
+Italy,adjusted_cost,27
+Italy,adjusted_cost_hours,18
+Macao,gdp_per_person,9
+Macao,adjusted_cost,4
+Macao,adjusted_cost_hours,19
+Australia,gdp_per_person,10
+Australia,adjusted_cost,19
+Australia,adjusted_cost_hours,20
+Canada,gdp_per_person,16
+Canada,adjusted_cost,28
+Canada,adjusted_cost_hours,28
+Israel,gdp_per_person,19
+Israel,adjusted_cost,27
+Israel,adjusted_cost_hours,27
+Hong Kong,gdp_per_person,20
+Hong Kong,adjusted_cost,15
+Hong Kong,adjusted_cost_hours,28
+Brunei,gdp_per_person,29
+Brunei,adjusted_cost,7
+Brunei,adjusted_cost_hours,29
+Andorra,gdp_per_person,29
+Andorra,adjusted_cost,14
+Andorra,adjusted_cost_hours,22
